@@ -1,7 +1,8 @@
 # Do NOT update manually; changes here will be overwritten by Copier
-_commit: v1.16.0
+_commit: v1.19.2
 _src_path: https://github.com/OCA/oca-addons-repo-template.git
 ci: GitHub
+convert_readme_fragments_to_markdown: true
 generate_requirements_txt: true
 github_check_license: true
 github_ci_extra_env: {}
@@ -16,7 +17,9 @@ org_name: Quartile Limited
 org_slug: qrtl
 rebel_module_groups: []
 repo_description: ''
-repo_name: ''
+repo_name: YMD CUSTOM
 repo_slug: ymd-custom
 repo_website: https://www.quartile.co
+use_pyproject_toml: false
+use_ruff: false
 
